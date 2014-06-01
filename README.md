@@ -51,8 +51,11 @@ ChromecastのSDKとか使ってないのでの[Google Cast](https://chrome.googl
 10. [Google Cast](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd)でテレビに艦これキャストのタブを表示します。
 11. カーソルがもたつくので激おこになります。
 12. ゲームの決定ボタンがダブルクリックであることに気がついて激おこぷんぷん丸になります。
-
-
+13. あれ？普通にPCで艦これやったほうがよくね？ってことに気が付きます。
+14. おわり。
+  
+  
+  
 インストールはこちらから。※まだ未公開
 
 [Chrome ウェブストア - 艦これキャスト]()
