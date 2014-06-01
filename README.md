@@ -1,11 +1,11 @@
 ![icon](src/img/icon128.png)
 # 艦これキャスト 
 艦これキャストは艦これをChromecastで**無理矢理**直接遊ぶためのChrome拡張です。
-  
+
 [Chromecast](http://www.google.com/intl/ja_ALL/chrome/devices/chromecast/)発売されましたねー。
-  
+
 私も早速買って楽しんでます！
-  
+
 ちなみにChrome拡張の[Google Cast](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd)を使えば表示中のタブの内容をテレビに表示できます。
   
 これで艦これもバッチリ、テレビに表示できるゾ！
