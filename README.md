@@ -47,7 +47,7 @@ ChromecastのSDKとか使ってないのでの[Google Cast](https://chrome.googl
 6. じゃあ次は艦これを表示してみよう！
 7. **でけぇ**
 8. カーソルが出ないことに絶望します。
-9. [艦これキャスト]()で艦これ起動します。
+9. [艦これキャスト](https://chrome.google.com/webstore/detail/%E8%89%A6%E3%81%93%E3%82%8C%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88/jpcmihpfojgblgklomcopphmnihpfnoc)で艦これ起動します。
 10. [Google Cast](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd)でテレビに艦これキャストのタブを表示します。
 11. カーソルがもたつくので激おこになります。
 12. ゲームの決定ボタンがダブルクリックであることに気がついて激おこぷんぷん丸になります。
@@ -56,9 +56,9 @@ ChromecastのSDKとか使ってないのでの[Google Cast](https://chrome.googl
   
   
   
-インストールはこちらから。※まだ未公開
+インストールはこちらから。
 
-[Chrome ウェブストア - 艦これキャスト]()
+[Chrome ウェブストア - 艦これキャスト](https://chrome.google.com/webstore/detail/%E8%89%A6%E3%81%93%E3%82%8C%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88/jpcmihpfojgblgklomcopphmnihpfnoc)
 
 
 
