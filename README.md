@@ -39,8 +39,18 @@ ChromecastのSDKとか使ってないのでの[Google Cast](https://chrome.googl
 **まぁ、ぶっちゃけPCで操作したほうが全然遊びやすいです。**
 
 # 使い方
-
-
+1. [Chromecast](http://www.google.com/intl/ja_ALL/chrome/devices/chromecast/)を買います。
+2. Chromecastをセットアップします。
+3. YouTubeで「アナと雪の女王」の25ヶ国バージョンとかをテレビで見ちゃったりします。
+4. 満足したら次はChromeのタブの表示を[Google Cast](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd)を試してみます。
+5. やったー成功だ！
+6. じゃあ次は艦これを表示してみよう！
+7. **でけぇ**
+8. カーソルが出ないことに絶望します。
+9. [艦これキャスト]()で艦これ起動します。
+10. [Google Cast](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd)でテレビに艦これキャストのタブを表示します。
+11. カーソルがもたつくので激おこになります。
+12. ゲームの決定ボタンがダブルクリックであることに気がついて激おこぷんぷん丸になります。
 
 
 インストールはこちらから。※まだ未公開
