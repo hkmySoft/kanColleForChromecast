@@ -1,6 +1,6 @@
 {
 	"name": "艦これキャスト",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "艦これをChromecastで無理矢理直接遊ぶためのツールです。",
 	"icons": {
 		"128": "src/img/icon128.png"
